@@ -87,3 +87,7 @@ $$
 \implies M\propto m,\quad \varepsilon \propto m\implies M\propto\varepsilon
 $$
 
+
+
+
+Матрица $D$ равна $(2A+B)\cdot C^{\perp}$, где $A=\begin{pmatrix}4 & 1 & 3 \\ 2 & 0 & 5\end{pmatrix}$, $B=\begin{pmatrix}-2 & -5 & -4 \\ 0 & -2 & -3\end{pmatrix}$, $C=\begin{pmatrix}1 & 2\end{pmatrix}$
