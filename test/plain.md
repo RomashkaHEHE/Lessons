@@ -105,5 +105,19 @@ $$
 \end{aligned}
 $$
 $$
-
+C^{\perp}=\begin{pmatrix}
+1 & 3 \\
+2 & 1 \\
+5 & 2
+\end{pmatrix}
+$$
+$$
+\begin{pmatrix}
+6 & -3 & 2 \\
+4 & -2 & 7
+\end{pmatrix} \cdot \begin{pmatrix}
+1 & 3 \\
+2 & 1 \\
+5 & 2
+\end{pmatrix}
 $$
