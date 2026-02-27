@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/plain2.md",
+                "file": "Марвин/Практика/27.02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plain2"
+              "title": "27.02"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "ac29fd28e080ee69",
   "lastOpenFiles": [
-    "Марвин/Практика/27.02.md",
     "test/plain2.md",
+    "Марвин/Практика/27.02.md",
     "Марвин/Лекции/27.02.md",
     "Марвин/Лекции/20.02.md",
     "test/plain.md",
