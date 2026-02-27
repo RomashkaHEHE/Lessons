@@ -112,6 +112,7 @@ C^{\perp}=\begin{pmatrix}
 \end{pmatrix}
 $$
 $$
+\begin{aligned}
 \begin{pmatrix}
 6 & -3 & 2 \\
 4 & -2 & 7
@@ -119,5 +120,8 @@ $$
 1 & 3 \\
 2 & 1 \\
 5 & 2
+\end{pmatrix} & = \begin{pmatrix}
+6 \cdot 1 + (-3) \cdot 2 + 2 \cdot 5 & 
 \end{pmatrix}
+\end{aligned}
 $$
