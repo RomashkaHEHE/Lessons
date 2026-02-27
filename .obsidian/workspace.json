@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "51b2e3a0a5a9d2d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "36c43396db2f3d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac29fd28e080ee69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Марвин/Практика/27.02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27.02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dbd94b22f86f1c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0dca76c5a44e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a8e8f5af53bf7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c00efb3cfe5e0a36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7ad9225f1314a38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "f465c0e42da80ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c38ac7e0cdd4425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b8a16e085adc54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Башуров/Практика/18.11.2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 18.11.2025"
+            }
+          },
+          {
+            "id": "9fc915849ab15983",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0543862f3efdea73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a92d0f4e428cb82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test/latex train 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of latex train 2"
+            }
+          },
+          {
+            "id": "e338efeb2bd6dfcb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ac29fd28e080ee69",
+  "lastOpenFiles": [
+    "Марвин/Лекции/27.02.md",
+    "Марвин/Практика/27.02.md",
+    "Марвин/Лекции/20.02.md",
+    "test/plain.md",
+    "Физика (Гора)/Лабы/№1.md",
+    "Учебный план.md",
+    "Башуров/Практики/21.02.md",
+    "Физика (Гора)/Практики/13.02/Drawing 2026-02-13 12.44.44.excalidraw.md",
+    "Физика (Гора)/Лекции/13.02/Drawing 2026-02-13 08.26.38.excalidraw.md",
+    "Физика (Гора)/Лекции/13.02/13.02.md",
+    "сделать.md",
+    "Физика (Гора)/Лекции/20.02.md",
+    "Физика (Гора)/Физика (Гора).md",
+    "Марвин/Практика/13.02.md",
+    "Марвин/Практика/20.02.md",
+    "Башуров/Практики/16.02.md",
+    "Марвин/Лекции/13.02.md",
+    "Башуров/Практики/09.02.md",
+    "Физика (Гора)/Лабы/№9.md",
+    "Физика (Гора)/Лабы/МОРИ.md",
+    "Физика (Гора)/Лабы/attachments/Pasted image 20260220064505.png",
+    "Физика (Гора)/Лабы/attachments/Pasted image 20260220063922.png",
+    "Физика (Гора)/Лабы/attachments/Pasted image 20260220063916.png",
+    "Физика (Гора)/Лабы/attachments/Pasted image 20260220062640.png",
+    "Физика (Гора)/Лабы/attachments",
+    "Физика (Гора)/Лабы",
+    "attachments/Pasted image 20260109220742.png",
+    "attachments/Pasted image 20260109221146.png",
+    "attachments/Pasted image 20260109221245.png",
+    "Башуров/Практики/attachments/Pasted image 20260216084616.png",
+    "Башуров/Практики/attachments/Pasted image 20260216085115.png",
+    "Башуров/Практики/attachments/Pasted image 20260216085809.png",
+    "Башуров/Дз/от 16.02.md",
+    "Башуров/Башуров.md",
+    "Башуров/Практики",
+    "Башуров/Untitled.md",
+    "Башуров/Дз",
+    "Марвин/Практика",
+    "Физика (Гора)/Практики/13.02/13.02.md",
+    "Физика (Гора)/Практики/13.02",
+    "Физика (Гора)/Практики",
+    "Физика (Гора)/Лекции/13/13.02 первая лекция.md",
+    "Физика (Гора)/Лекции/13/Drawing 2026-02-13 08.26.38.excalidraw.md",
+    "Физика (Гора)/Лекции/13",
+    "Марвин/Лекции",
+    "Марвин"
+  ]
+}

@@ -1,0 +1,27 @@
+/* ===== Left align display math in Obsidian (Reading + Live Preview) ===== */
+
+/* MathJax (CHTML/SVG), display equations */
+.markdown-rendered mjx-container[display="true"],
+.markdown-source-view.mod-cm6 mjx-container[display="true"] {
+  display: block !important;
+  text-align: left !important;
+
+  /* часто именно auto-margins визуально "центрят" */
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* на всякий: иногда центрирование задают внутренним элементам */
+.markdown-rendered mjx-container[display="true"] > mjx-math,
+.markdown-source-view.mod-cm6 mjx-container[display="true"] > mjx-math {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* KaTeX (если тема/плагин использует KaTeX) */
+.markdown-rendered .katex-display,
+.markdown-source-view.mod-cm6 .katex-display {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}

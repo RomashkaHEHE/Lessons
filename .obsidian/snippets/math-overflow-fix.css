@@ -1,0 +1,10 @@
+/* Fix shift only for rendered (Reading/Preview) display math */
+.markdown-rendered .math-block:has(mjx-container[display="true"]) {
+  text-align: left !important;
+}
+
+.markdown-rendered .math-block:has(mjx-container[display="true"]) mjx-container[display="true"] {
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+}
