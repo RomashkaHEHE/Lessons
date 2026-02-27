@@ -90,4 +90,20 @@ $$
 
 
 
-Матрица $D$ равна $(2A+B)\cdot C^{\perp}$, где $A=\begin{pmatrix}4 & 1 & 3 \\ 2 & 0 & 5\end{pmatrix}$, $B=\begin{pmatrix}-2 & -5 & -4 \\ 0 & -2 & -3\end{pmatrix}$, $C=\begin{pmatrix}1 & 2\end{pmatrix}$
+Матрица $D$ равна $(2A+B)\cdot C^{\perp}$, где $A=\begin{pmatrix}4 & 1 & 3 \\ 2 & 0 & 5\end{pmatrix}$, $B=\begin{pmatrix}-2 & -5 & -4 \\ 0 & -2 & -3\end{pmatrix}$, $C=\begin{pmatrix}1 & 2 & 5 \\ 3 & 1 & 2\end{pmatrix}$.
+Посчитать определитель матрицы $D$
+$$
+\begin{aligned}
+2A+B & =\begin{pmatrix}
+8-2 & 2-5 & 6-4 \\
+4 & -2 & 10-3
+\end{pmatrix} \\[4pt]
+ & =\begin{pmatrix}
+6 & -3 & 2 \\
+4 & -2 & 7
+\end{pmatrix}
+\end{aligned}
+$$
+$$
+
+$$
