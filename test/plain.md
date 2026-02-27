@@ -121,7 +121,8 @@ $$
 2 & 1 \\
 5 & 2
 \end{pmatrix} & = \begin{pmatrix}
-6 \cdot 1 + (-3) \cdot 2 + 2 \cdot 5 & 
+6 \cdot 1 + (-3) \cdot 2 + 2 \cdot 5 & 6 \cdot 3 + (-3) \cdot 1 + 2 \cdot 2 \\
+4 \cdot 1 + (-2) \cdot 2 + 7 \cdot 5 & 4 \cdot 3 + (-2) \cdot 1 + 7 \cdot 2
 \end{pmatrix}
 \end{aligned}
 $$
