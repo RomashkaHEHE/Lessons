@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/plain.md",
+                "file": "Учебный план.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plain"
+              "title": "Учебный план"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "3cb8d27bd9810e64",
   "lastOpenFiles": [
+    "test/plain.md",
     "Марвин/Практика/27.02.md",
     "polovinka",
     "New folder",
@@ -193,7 +194,6 @@
     "test/plain2.md",
     "Марвин/Лекции/27.02.md",
     "Марвин/Лекции/20.02.md",
-    "test/plain.md",
     "Физика (Гора)/Лабы/№1.md",
     "Учебный план.md",
     "Башуров/Практики/21.02.md",
