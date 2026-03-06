@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Марвин/Лекции/20.02.md",
+                "file": "Марвин/Лекции/06.03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.02"
+              "title": "06.03"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "конечномерн",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb8d27bd9810e64",
+  "active": "f6a8e8f5af53bf7f",
   "lastOpenFiles": [
+    "Марвин/Лекции/20.02.md",
     "Марвин/Лекции/27.02.md",
     "Марвин/Практика/13.02.md",
     "Марвин/Практика/20.02.md",
@@ -192,7 +193,6 @@
     "Физика (Гора)/Лекции/20.02.md",
     "Физика (Гора)/Практики/06.03.md",
     "сделать.md",
-    "Марвин/Лекции/20.02.md",
     "Физика (Гора)/Практики/13.02/13.02.md",
     "Физика (Гора)/Физика (Гора).md",
     "Марвин/Лекции/06.03.md",
