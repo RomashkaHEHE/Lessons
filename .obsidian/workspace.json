@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6a8e8f5af53bf7f",
+  "active": "c00efb3cfe5e0a36",
   "lastOpenFiles": [
     "Марвин/Лекции/20.02.md",
     "Марвин/Лекции/27.02.md",
