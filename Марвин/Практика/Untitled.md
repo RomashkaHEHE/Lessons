@@ -33,6 +33,14 @@ $x_{1}=-x_{2}-x_{3}$
 ФСР
 $$
 \begin{pmatrix}
-
+-1 \\
+1 \\
+0
+\end{pmatrix},\begin{pmatrix}
+-1 \\
+0 \\
+1
 \end{pmatrix}
 $$
+$((-1, 1, 0), (-1, 0, 1))$ - базис $\operatorname{Ker}(\hat{A})$
+$\operatorname{d}(\hat{A})=2$
