@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "конечномерн",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c00efb3cfe5e0a36",
+  "active": "3cb8d27bd9810e64",
   "lastOpenFiles": [
     "Марвин/Лекции/20.02.md",
     "Марвин/Лекции/27.02.md",
