@@ -6,7 +6,23 @@ $Б_{0}=((1, 0, 0), (0, 1, 0), (0, 0, 1))$
 $\hat{A}((1,0,0))=(1,1,1)$
 $\hat{A}((0, 1, 0))=(1,1,1)$
 $\hat{A}((0,0,1))=(1,1,1)$
-$[\hat{A}]_{Б}=\begin{pmatrix}1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1\end{pmatrix}$
 $$
-[\hat{A}]_{Б}=9
+[\hat{A}]_{Б}=\begin{pmatrix}
+1 & 1 & 1 \\
+1 & 1 & 1 \\
+1 & 1 & 1
+\end{pmatrix}
+$$
+$$
+\begin{pmatrix}
+1 & 1 & 1 \\
+1 & 1 & 1 \\
+1 & 1 & 1
+\end{pmatrix}_{\substack{II-I\\III-I}}\tilde{}\quad \begin{pmatrix}
+1 & 1 & 1 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{pmatrix}\quad\tilde{}\quad\begin{pmatrix}
+\overbracket[0.6pt]{ 1 }^{ ↓ }  & 1 & 1
+\end{pmatrix}
 $$
