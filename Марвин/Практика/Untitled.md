@@ -4,3 +4,9 @@ $\hat{A}(\bar{x})=(\bar{x}_{1}+\bar{x}_{2}+\bar{x}_{3},\bar{x}_{1}+\bar{x}_{2}+\
 $\operatorname{Kre}(\hat{A}),\mathrm{Im}(\hat{A}),\operatorname{d}(\hat{A}), \operatorname{Rg}(\hat{A})\text{ - }?$
 $Б_{0}=((1, 0, 0), (0, 1, 0), (0, 0, 1))$
 $\hat{A}((1,0,0))=(1,1,1)$
+$\hat{A}((0, 1, 0))=(1,1,1)$
+$\hat{A}((0,0,1))=(1,1,1)$
+$[\hat{A}]_{Б}=\begin{pmatrix}1 & 1 & 1 \\ 1 & 1 & 1 \\ 1 & 1 & 1\end{pmatrix}$
+$$
+[\hat{A}]_{Б}=9
+$$
