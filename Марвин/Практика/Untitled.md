@@ -44,3 +44,5 @@ $$
 $$
 $((-1, 1, 0), (-1, 0, 1))$ - базис $\operatorname{Ker}(\hat{A})$
 $\operatorname{d}(\hat{A})=2$
+$(1,1,1)$ - базис $\mathrm{Im}(\hat{A})$
+$\operatorname{Rg}(\hat{A})=1$
