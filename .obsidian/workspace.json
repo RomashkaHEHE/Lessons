@@ -25,12 +25,14 @@
             "id": "72eee8376f695e5a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.md"
+                "file": "Марвин/тест relay.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-09 00.31.47.excalidraw"
+              "icon": "lucide-file",
+              "title": "тест relay"
             }
           }
         ],
@@ -198,8 +200,11 @@
   },
   "active": "72eee8376f695e5a",
   "lastOpenFiles": [
-    "Марвин/тест relay.md",
     "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.md",
+    "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.restored.md",
+    "Марвин/тест relay.md",
+    "Марвин/Практика/13.02.md",
+    "Марвин/Практика/Untitled.md",
     "Марвин/Практика 1.md",
     "Марвин/Евклидовы и унитарные пространства.md",
     "Марвин/Лекции/27.02.md",
@@ -207,8 +212,6 @@
     "Марвин/к экзу.md",
     "Марвин/Лекции/13.02.md",
     "Марвин/Лекции/06.03.md",
-    "Марвин/Практика/Untitled.md",
-    "Марвин/Практика/13.02.md",
     "Марвин/Практика/20.02.md",
     "Марвин/Практика/27.02.md",
     "Физика (Гора)/random/1 лаба.md",
@@ -227,7 +230,6 @@
     "polovinka",
     "New folder",
     "New Text Document.txt",
-    "test/plain2.md",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220064505.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063922.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063916.png",
