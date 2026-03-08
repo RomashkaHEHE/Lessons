@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "test note from test folder"
             }
+          },
+          {
+            "id": "a6c608fe4ebb5dfb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "test/(excalidraw) multiplayer test.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(excalidraw) multiplayer test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +196,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f6a8e8f5af53bf7f",
+  "active": "a6c608fe4ebb5dfb",
   "lastOpenFiles": [
-    "Миша-Рома-Влад/first note.md",
+    "test/latex suite.md",
+    "Учебный план.md",
+    "test/(excalidraw) multiplayer test.md",
     "Миша-Рома-Влад/test folder/test note from test folder.md",
+    "Миша-Рома-Влад/first note.md",
     "Миша-Рома-Влад/To-Do list.md",
     "Миша-Рома-Влад/test folder",
     "Марвин/Практика 1.md",
@@ -213,9 +229,6 @@
     "(Вальтер) Алгебра и геометрия (Марвин)/Транспонирование матриц.md",
     "(Вальтер) Алгебра и геометрия (Марвин)",
     "физика/видно мой новый файл.md",
-    "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.md",
-    "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.restored.md",
-    "Марвин/к экзу.md",
     "физика/рисунки",
     "физика",
     "физика (вальтера)/рисунки",
