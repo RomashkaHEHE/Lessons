@@ -25,12 +25,14 @@
             "id": "a6c608fe4ebb5dfb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "test/(excalidraw) multiplayer test.md"
+                "file": "test/plain.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "(excalidraw) multiplayer test"
+              "icon": "lucide-file",
+              "title": "plain"
             }
           }
         ],
@@ -198,9 +200,10 @@
   },
   "active": "a6c608fe4ebb5dfb",
   "lastOpenFiles": [
+    "test/math.md",
+    "test/(excalidraw) multiplayer test.md",
     "test/latex suite.md",
     "Учебный план.md",
-    "test/(excalidraw) multiplayer test.md",
     "Миша-Рома-Влад/test folder/test note from test folder.md",
     "Миша-Рома-Влад/first note.md",
     "Миша-Рома-Влад/To-Do list.md",
@@ -228,7 +231,6 @@
     "(Вальтер) Алгебра и геометрия (Марвин)/Векторное произведение векторов.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/Транспонирование матриц.md",
     "(Вальтер) Алгебра и геометрия (Марвин)",
-    "физика/видно мой новый файл.md",
     "физика/рисунки",
     "физика",
     "физика (вальтера)/рисунки",
