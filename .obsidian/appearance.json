@@ -1,7 +1,4 @@
 {
   "baseFontSize": 25,
-  "enabledCssSnippets": [
-    "latex_left-align",
-    "math-overflow-fix"
-  ]
+  "enabledCssSnippets": []
 }
