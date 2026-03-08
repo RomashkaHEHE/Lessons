@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "тест relay"
             }
+          },
+          {
+            "id": "72eee8376f695e5a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-09 00.31.47.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +196,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3cb8d27bd9810e64",
+  "active": "72eee8376f695e5a",
   "lastOpenFiles": [
+    "Марвин/тест relay.md",
+    "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.md",
     "Марвин/Практика 1.md",
     "Марвин/Евклидовы и унитарные пространства.md",
     "Марвин/Лекции/27.02.md",
-    "Марвин/тест relay.md",
     "Марвин/Лекции/20.02.md",
     "Марвин/к экзу.md",
     "Марвин/Лекции/13.02.md",
@@ -214,7 +228,6 @@
     "New folder",
     "New Text Document.txt",
     "test/plain2.md",
-    "Башуров/Практики/21.02.md",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220064505.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063922.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063916.png",
