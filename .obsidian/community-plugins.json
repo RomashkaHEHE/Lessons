@@ -1,6 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-latex-suite",
   "folder-notes",
   "table-editor-obsidian",
   "obsidian-enhancing-export",
@@ -8,5 +7,5 @@
   "obsidian-git",
   "obsidian-link-embed",
   "system3-relay",
-  "obsidian-math-plus"
+  "obsidian-latex-suite"
 ]
