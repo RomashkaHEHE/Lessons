@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "plain"
             }
+          },
+          {
+            "id": "da32b621a1ce710a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "test/(excalidraw) collabortaion test.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(excalidraw) collabortaion test"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +210,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "a6c608fe4ebb5dfb",
+  "active": "da32b621a1ce710a",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "test/plain.md",
+    "test/(excalidraw) collabortaion test.md",
     "test/math.md",
     "test/(excalidraw) multiplayer test.md",
     "test/latex suite.md",
@@ -226,17 +245,10 @@
     "(Вальтер) Алгебра и геометрия (Марвин)/кр подготовка draw.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/Координатные системы и переходы.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/Комплексные числа.md",
-    "(Вальтер) Алгебра и геометрия (Марвин)/Векторная алгебра.md",
-    "(Вальтер) Алгебра и геометрия (Марвин)/КР ПОДГОТОВКА.md",
-    "(Вальтер) Алгебра и геометрия (Марвин)/Векторное произведение векторов.md",
-    "(Вальтер) Алгебра и геометрия (Марвин)/Транспонирование матриц.md",
     "(Вальтер) Алгебра и геометрия (Марвин)",
     "физика/рисунки",
     "физика",
     "физика (вальтера)/рисунки",
-    "физика (вальтера)",
-    "Физика (Гора)/random",
-    "polovinka",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220064505.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063922.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063916.png",
