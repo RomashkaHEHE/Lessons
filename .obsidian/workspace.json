@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Марвин/к экзу.md",
+                "file": "Марвин/Лекции/20.02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "к экзу"
+              "title": "20.02"
             }
           }
         ]
@@ -179,16 +179,17 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "system3-relay:Relay": false
     }
   },
   "active": "3cb8d27bd9810e64",
   "lastOpenFiles": [
+    "Марвин/Лекции/27.02.md",
+    "Марвин/к экзу.md",
     "Марвин/Лекции/13.02.md",
     "Марвин/Лекции/06.03.md",
     "Марвин/Лекции/20.02.md",
-    "Марвин/Лекции/27.02.md",
-    "Марвин/к экзу.md",
     "Марвин/Практика/Untitled.md",
     "Марвин/Практика/13.02.md",
     "Марвин/Практика/20.02.md",
