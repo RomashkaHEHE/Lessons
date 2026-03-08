@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Миша-Рома-Влад/first note.md",
+                "file": "Миша-Рома-Влад/test folder/test note from test folder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first note"
+              "title": "test note from test folder"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3cb8d27bd9810e64",
+  "active": "f6a8e8f5af53bf7f",
   "lastOpenFiles": [
-    "Миша-Рома-Влад/To-Do list.md",
     "Миша-Рома-Влад/first note.md",
+    "Миша-Рома-Влад/test folder/test note from test folder.md",
+    "Миша-Рома-Влад/test folder",
+    "Миша-Рома-Влад/To-Do list.md",
+    "Марвин/Практика 1.md",
+    "Марвин/тест relay.md",
     "Физика (Гора)/Физика (Гора).md",
     "Кошелев/Первая лекция.md",
     "Миша-Рома-Влад",
@@ -194,7 +198,6 @@
     "(Вальтер) Алгебра и геометрия (Марвин)/→ ЗАЙДИ СЮДА ←.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/attachments/Pasted image 20260309005614.png",
     "(Вальтер) Алгебра и геометрия (Марвин)/attachments",
-    "Марвин/тест relay.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/Смешанное произведение.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/Прямая в пространстве и на плоскости.md",
     "(Вальтер) Алгебра и геометрия (Марвин)/Плоскость и её свойства.md",
@@ -212,16 +215,13 @@
     "физика/видно мой новый файл.md",
     "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.md",
     "Марвин/Drawing 2026-03-09 00.31.47.excalidraw.restored.md",
-    "Марвин/Практика 1.md",
     "Марвин/к экзу.md",
-    "Марвин/Евклидовы и унитарные пространства.md",
     "физика/рисунки",
     "физика",
     "физика (вальтера)/рисунки",
     "физика (вальтера)",
     "Физика (Гора)/random",
     "polovinka",
-    "New folder",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220064505.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063922.png",
     "Физика (Гора)/Лабы/attachments/Pasted image 20260220063916.png",
