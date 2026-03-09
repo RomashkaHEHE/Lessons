@@ -1,9 +1,12 @@
+- [ ] checkmark1
+- [ ] checkmark2
+- [ ] checkmark3
+
+- [ ] asd
 
 
-$$
-E_{\text{п}.} = \frac{mv^{2}}{2}
-$$
-c
-$E_{\text{п.}}=\frac{mv^2}{2}$
 
-$a$
+
+
+
+
