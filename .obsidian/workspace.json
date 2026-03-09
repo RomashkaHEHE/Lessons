@@ -39,12 +39,14 @@
             "id": "da32b621a1ce710a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "test/(excalidraw) collabortaion test.md"
+                "file": "Миша-Рома-Влад/test folder/test note from test folder.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "(excalidraw) collabortaion test"
+              "icon": "lucide-file",
+              "title": "test note from test folder"
             }
           }
         ],
@@ -212,8 +214,11 @@
   },
   "active": "da32b621a1ce710a",
   "lastOpenFiles": [
-    "test/latex train.md",
+    "Миша-Рома-Влад/To-Do list.md",
+    "Миша-Рома-Влад/first note.md",
+    "Миша-Рома-Влад/test folder/test note from test folder.md",
     "test/(excalidraw) collabortaion test.md",
+    "test/latex train.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
     "Excalidraw/Scripts/Downloaded",
@@ -224,9 +229,6 @@
     "test/(excalidraw) multiplayer test.md",
     "test/latex suite.md",
     "Учебный план.md",
-    "Миша-Рома-Влад/test folder/test note from test folder.md",
-    "Миша-Рома-Влад/first note.md",
-    "Миша-Рома-Влад/To-Do list.md",
     "Миша-Рома-Влад/test folder",
     "Марвин/Практика 1.md",
     "Марвин/тест relay.md",
