@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "тест relay"
             }
-          },
-          {
-            "id": "a9d75af725909492",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Drawing 2026-03-09 14.24.45.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-09 14.24.45.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,11 +212,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "a9d75af725909492",
+  "active": "da32b621a1ce710a",
   "lastOpenFiles": [
     "Учёба/Drawing 2026-03-09 14.23.44.excalidraw.md",
-    "Учёба/тест relay.md",
     "Учёба/Drawing 2026-03-09 14.24.45.excalidraw.md",
+    "Учёба/тест relay.md",
     "Учёба/(excalidraw) roma.md",
     "Учёба/Drawing 2026-03-09 14.19.21.excalidraw.md",
     "Миша-Рома-Влад/Drawing 2026-03-09 14.21.01.excalidraw.md",
