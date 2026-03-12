@@ -23,5 +23,13 @@ $$
 \end{aligned}
 $$
 $$
-y=3
+\begin{aligned}
+ & x=-2\qquad y=3 \\
+ & \begin{aligned}
+3 & =a\cdot (-2)^{2}+b\cdot(-2)+c \\
+3 & =4a-2b+3 \\
+3-3 & =4a-2b \\
+0 & =4a-2b
+\end{aligned}
+\end{aligned}
 $$
