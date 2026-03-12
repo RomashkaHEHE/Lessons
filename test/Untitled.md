@@ -30,14 +30,16 @@ $$
 3 & =4a-2b+3 \\
 3-3 & =4a-2b \\
 0 & =4a-2b \\
-2b & =4a 
+2b & =4a\quad|\ \ /2 \\
+b & =2a
 \end{aligned}
 \end{aligned}
 $$
 
+
 $$
-\begin{aligned}
-3+7 & =4+6 & |\cdot3 \\
-(3+7)\cdot3
-\end{aligned}
+\begin{cases}
+a-b=-1 \\
+b=2a
+\end{cases}
 $$
