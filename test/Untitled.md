@@ -43,3 +43,13 @@ a-b=-1 \\
 b=2a
 \end{cases}
 $$
+$$
+\begin{aligned}
+a-2a & =-1 \\
+-a & =-1 \\
+a & =1
+\end{aligned}
+$$
+$$
+a=1\qquad b=2\qquad c=3
+$$
