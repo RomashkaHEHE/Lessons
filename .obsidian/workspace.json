@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Марвин/Практика/20.02.md",
+                "file": "test/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.02"
+              "title": "Untitled"
             }
           }
         ],
@@ -200,6 +200,8 @@
   },
   "active": "a6c608fe4ebb5dfb",
   "lastOpenFiles": [
+    "Марвин/Практика/20.02.md",
+    "test/Untitled.md",
     "Марвин/Практика/27.02.md",
     "Марвин/Практика/13.02.md",
     "6 мушектёров/Сбор и верефикация данных/03.12  exc.md",
@@ -238,8 +240,6 @@
     "Учёба/тест relay.md",
     "Физика (Гора)/Физика (Гора).md",
     "Миша-Рома-Влад/Drawing 2026-03-09 14.21.01.excalidraw.md",
-    "Учёба/Drawing 2026-03-09 14.23.44.excalidraw.md",
-    "Учёба/Drawing 2026-03-09 14.24.45.excalidraw.md",
     "Учёба/Дискретная математика/Практики",
     "Учёба/Дискретная математика/Лекции",
     "Учёба/Английский язык/Homeworks",
