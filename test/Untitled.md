@@ -12,6 +12,16 @@ $$
  & y=3\qquad x=0 \\
  & 3=\underbrace{ a\cdot 0^{2} }_{ 0 }+\underbrace{ b\cdot 0 }_{ 0 }+c \\
  & 3=0+0+c \\
- & c
+ & c=3
 \end{aligned}
+$$
+$$
+\begin{aligned}
+2 & =a-b+3 \\
+2-3 & =a-b \\
+-1 & =a-b
+\end{aligned}
+$$
+$$
+y=3
 $$
