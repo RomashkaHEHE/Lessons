@@ -29,7 +29,15 @@ $$
 3 & =a\cdot (-2)^{2}+b\cdot(-2)+c \\
 3 & =4a-2b+3 \\
 3-3 & =4a-2b \\
-0 & =4a-2b
+0 & =4a-2b \\
+2b & =4a 
 \end{aligned}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+3+7 & =4+6 & |\cdot3 \\
+(3+7)\cdot3
 \end{aligned}
 $$
