@@ -11,12 +11,14 @@
             "id": "3cb8d27bd9810e64",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "6 мушкетёров/misc/random/03.12  exc.md"
+                "file": "6 мушкетёров/misc/Общение.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "03.12  exc"
+              "icon": "lucide-file",
+              "title": "Общение"
             }
           }
         ]
