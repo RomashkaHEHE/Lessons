@@ -39,12 +39,14 @@
             "id": "d3d445dfad2c4aec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "6 мушкетёров/Сбор и верефикация данных/Лекция 24.03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Лекция 24.03"
             }
           }
         ],
