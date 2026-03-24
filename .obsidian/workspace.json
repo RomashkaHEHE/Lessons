@@ -25,12 +25,14 @@
             "id": "015c98c8239849e8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "6 мушкетёров/misc/mermaid.md"
+                "file": "6 мушкетёров/Сбор и верефикация данных/Лекция 24.03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "mermaid"
+              "icon": "lucide-file",
+              "title": "Лекция 24.03"
             }
           }
         ],
@@ -196,8 +198,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f6a8e8f5af53bf7f",
+  "active": "015c98c8239849e8",
   "lastOpenFiles": [
+    "6 мушкетёров/Сбор и верефикация данных/Drawing 2026-03-24 14.31.44.excalidraw.md",
+    "6 мушкетёров/Сбор и верефикация данных/attachments/Сэндвич обратной связи 2026-03-24.excalidraw.restored.md",
+    "6 мушкетёров/Сбор и верефикация данных/Лекция 10.03.md",
+    "6 мушкетёров/Сбор и верефикация данных/Лекция 24.03.md",
+    "6 мушкетёров/misc/mermaid.md",
     "6 мушкетёров/misc/attachments/image-6.png",
     "6 мушкетёров/misc/attachments/mermaid-diagram-2026-03-23-165355.svg",
     "6 мушкетёров/misc/attachments/mermaid-diagram-2026-03-23-165419.png",
@@ -206,7 +213,6 @@
     "6 мушкетёров/misc/attachments/Pasted image 20260315220202.png",
     "6 мушкетёров/misc/attachments/Pasted image 20260315224214.png",
     "6 мушкетёров/misc/attachments/Pasted image 20260315223851.png",
-    "6 мушкетёров/misc/mermaid.md",
     "6 мушкетёров/misc/Промпт для архитектуры.md",
     "6 мушкетёров/Башуров/Демо-вариант КР.md",
     "6 мушкетёров/Башуров/ИДЗ ФНП.pdf",
@@ -214,7 +220,6 @@
     "6 мушкетёров/Башуров/Практики/Практика 23.03.26.md",
     "Башуров/Дз/attachments/image-1.png",
     "Башуров/Дз/attachments/image.png",
-    "Башуров/Дз/attachments/image-5.png",
     "Башуров/Дз/attachments",
     "Башуров/Практики/21.02.md",
     "Башуров/Практики/09.02.md",
@@ -234,10 +239,7 @@
     "6 мушкетёров/Физика/Лекции/attachments",
     "6 мушкетёров/Башуров/Практики",
     "6 мушкетёров/misc/obsidian callouts.md",
-    "6 мушкетёров/Сбор и верефикация данных/Лекция 10.03.md",
     "test/Анализ сервисов краудсорсинга.md",
-    "Учебный план.md",
-    "6 мушкетёров/Башуров/Рисунки/Рисунки.md",
     "6 мушкетёров/Башуров/Практики/Никита рисует чисто па кайфу епт",
     "6 мушкетёров/Башуров/attachments",
     "6 мушкетёров/Башуров/Рисунки",
