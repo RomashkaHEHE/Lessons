@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Лекция 24.03"
             }
+          },
+          {
+            "id": "d3d445dfad2c4aec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "015c98c8239849e8",
+  "active": "d3d445dfad2c4aec",
   "lastOpenFiles": [
     "6 мушкетёров/Сбор и верефикация данных/Drawing 2026-03-24 14.31.44.excalidraw.md",
     "6 мушкетёров/Сбор и верефикация данных/attachments/Сэндвич обратной связи 2026-03-24.excalidraw.restored.md",
