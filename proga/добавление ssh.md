@@ -16,3 +16,8 @@ nano ~/.ssh/authorized_keys
 chmod 700 ~/.ssh  
 chmod 600 ~/.ssh/authorized_keys
 ```
+
+После этого человек может зайти:
+```Bash
+ssh user1@46.16.36.87
+```
