@@ -95,12 +95,14 @@
             "id": "9bab0d987fb5cc70",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "6 мушкетёров/Физика/Лекции/attachments/задача про газ.md"
+                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "задача про газ"
+              "icon": "lucide-file",
+              "title": "Лекция 27.03"
             }
           }
         ],
@@ -266,10 +268,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f6a8e8f5af53bf7f",
+  "active": "9bab0d987fb5cc70",
   "lastOpenFiles": [
-    "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
     "6 мушкетёров/Физика/Лекции/attachments/задача про газ.md",
+    "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
     "6 мушкетёров/Физика/Лекции/attachments/Трёхатомный.md",
     "6 мушкетёров/Физика/Лекции/attachments/двухатомный.md",
     "6 мушкетёров/Физика/Лекции/Лекция 20.03.md",
