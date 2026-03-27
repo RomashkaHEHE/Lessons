@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "Лекция 27.03"
             }
+          },
+          {
+            "id": "1f830d0e900d3d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 27.03"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -282,13 +296,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "60ef4e7184ab1235",
+  "active": "1f830d0e900d3d01",
   "lastOpenFiles": [
     "6 мушкетёров/Физика/Лекции/attachments/график p-v.md",
     "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
+    "6 мушкетёров/Физика/Лекции/attachments/двухатомный.md",
     "6 мушкетёров/Физика/Лекции/attachments/задача про газ.md",
     "6 мушкетёров/Физика/Лекции/attachments/Трёхатомный.md",
-    "6 мушкетёров/Физика/Лекции/attachments/двухатомный.md",
     "6 мушкетёров/Физика/Лекции/Лекция 20.03.md",
     "6 мушкетёров/Физика/Лекции/attachments/Физика_Л6 .excalidraw 1.md",
     "6 мушкетёров/Физика/Лекции/Лекция 20 03 от никитки.md",
