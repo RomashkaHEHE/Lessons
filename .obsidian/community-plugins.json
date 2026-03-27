@@ -1,5 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
   "folder-notes",
   "table-editor-obsidian",
   "obsidian-enhancing-export",
@@ -8,5 +7,6 @@
   "obsidian-link-embed",
   "obsidian-latex-suite",
   "system3-relay",
-  "image-converter"
+  "image-converter",
+  "obsidian-excalidraw-plugin"
 ]
