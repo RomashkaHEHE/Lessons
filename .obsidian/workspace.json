@@ -109,12 +109,14 @@
             "id": "60ef4e7184ab1235",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "6 мушкетёров/Физика/Лекции/attachments/график p-v.md"
+                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "график p-v"
+              "icon": "lucide-file",
+              "title": "Лекция 27.03"
             }
           }
         ],
@@ -282,8 +284,8 @@
   },
   "active": "60ef4e7184ab1235",
   "lastOpenFiles": [
-    "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
     "6 мушкетёров/Физика/Лекции/attachments/график p-v.md",
+    "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
     "6 мушкетёров/Физика/Лекции/attachments/задача про газ.md",
     "6 мушкетёров/Физика/Лекции/attachments/Трёхатомный.md",
     "6 мушкетёров/Физика/Лекции/attachments/двухатомный.md",
