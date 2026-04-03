@@ -8,118 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "649cfab326c178d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/misc/Промпт для архитектуры.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Промпт для архитектуры"
-            }
-          },
-          {
-            "id": "015c98c8239849e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Сбор и верефикация данных/Лекция 24.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 24.03"
-            }
-          },
-          {
-            "id": "d3d445dfad2c4aec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 27.03"
-            }
-          },
-          {
-            "id": "a313a4aadf36ab41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 27.03"
-            }
-          },
-          {
-            "id": "46e040afce2cf54b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 27.03"
-            }
-          },
-          {
-            "id": "7c4c2c7d70ac857b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 27.03"
-            }
-          },
-          {
-            "id": "9bab0d987fb5cc70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 27.03"
-            }
-          },
-          {
-            "id": "60ef4e7184ab1235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 27.03"
-            }
-          },
-          {
             "id": "1f830d0e900d3d01",
             "type": "leaf",
             "state": {
@@ -132,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Лекция 03.04"
             }
+          },
+          {
+            "id": "18f5b73b44828e42",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://excalidraw.com/#room=11baf4bb4e460e2354a2,tQpV4JV9HhaHCd6Kp70jyw",
+                "title": "Excalidraw Whiteboard",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Excalidraw Whiteboard"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,13 +198,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "1f830d0e900d3d01",
+  "active": "18f5b73b44828e42",
   "lastOpenFiles": [
-    "Проектный практикум/Параметры сервера.md",
+    "6 мушкетёров/Физика/Лекции/attachments/Pasted image 20260403085625.png",
     "6 мушкетёров/Физика/Лекции/Лекция 03.04.md",
+    "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
+    "Проектный практикум/Параметры сервера.md",
     "6 мушкетёров/Физика/Лекции/attachments/Pasted image 20260403084615.png",
     "6 мушкетёров/Физика/Лекции/attachments/Drawing 2026-04-03 08.44.18.excalidraw.md",
-    "6 мушкетёров/Физика/Лекции/Лекция 27.03.md",
     "6 мушкетёров/Физика/Лекции/Лекция 13.03.md",
     "6 мушкетёров/Физика/Лекции/Лекция 20 03 от никитки.md",
     "6 мушкетёров/Физика/Лекции/Лекция 20.03.md",
