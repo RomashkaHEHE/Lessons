@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14e83acac5afbd7a",
+        "id": "21db727917a7fa74",
         "type": "tabs",
         "children": [
           {
-            "id": "1f830d0e900d3d01",
+            "id": "ca77c0dfef74c6cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учебный план.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Учебный план"
-            }
-          },
-          {
-            "id": "54ecf834aca9144c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://docs.google.com/forms/d/11oLj_2sOgjOz3lHF-Khzmp3Qr9PAN9dSwdMiZs7Zxt0/edit#responses",
-                "title": "Копия Физика у Горы 03.04.2026 - Google Формы",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Копия Физика у Горы 03.04.2026 - Google Формы"
-            }
-          },
-          {
-            "id": "18f5b73b44828e42",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://excalidraw.com/#room=11baf4bb4e460e2354a2,tQpV4JV9HhaHCd6Kp70jyw",
-                "title": "Excalidraw Whiteboard",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Excalidraw Whiteboard"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -211,8 +179,9 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "1f830d0e900d3d01",
+  "active": "ca77c0dfef74c6cd",
   "lastOpenFiles": [
+    "Учебный план.md",
     "сделать.md",
     "Марвин/к экзу.md",
     "Проектный практикум/Параметры сервера.md",
@@ -244,7 +213,6 @@
     "Физика (Гора)/Лабы/№10.md",
     "6 мушкетёров/Физика/Лабы/№10.md",
     "6 мушкетёров/АГиТДУ/Лекции/27.03.md",
-    "Физика (Гора)/Лабы/Конспект лабораторная работа №10.md",
     "Проектный практикум",
     "proga",
     "6 мушкетёров/Башуров/Рисунки/Никита рисует чисто па кайфу епт",
