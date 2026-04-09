@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "808688d159a4e0d5",
+        "id": "8ea2abb3ea8f4725",
         "type": "tabs",
         "children": [
           {
-            "id": "d3d2dedf6d55f73c",
+            "id": "584662cea85970f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Rolay/roomtest3/Drawing 2026-04-09 18.01.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-09 18.01.40.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -183,6 +181,12 @@
   },
   "active": "f6a8e8f5af53bf7f",
   "lastOpenFiles": [
+    "roomtest3/Untitled.md",
+    "roomtest3/test folder/img for test.png",
+    "roomtest3/note2.md",
+    "roomtest3/note.md",
+    "roomtest3/test folder",
+    "roomtest3",
     "Rolay/roomtest3/Drawing 2026-04-09 18.01.40.excalidraw.md",
     "Rolay/roomtest3/note.md",
     "Rolay/roomtest3/test folder/img for test.png",
@@ -216,18 +220,12 @@
     "6 мушкетёров/Физика/Лекции/Лекция 20 03 от никитки.md",
     "6 мушкетёров/Физика/Лекции/Лекция 20.03.md",
     "English/01.04.md",
-    "6 мушкетёров/Физика/Лекции/Untitled.md",
     "English/attachments/image.png",
     "English/attachments",
-    "Башуров/Башуров.md",
-    "6 мушкетёров/Башуров/Оцифровывание/Практика 7 + дз.md",
     "6 мушкетёров/Башуров/Оцифровывание",
     "Проектный практикум",
     "proga",
-    "6 мушкетёров/Башуров/Рисунки/Никита рисует чисто па кайфу епт",
     "6 мушкетёров/misc/attachments/image-6.png",
-    "6 мушкетёров/misc/attachments/mermaid-diagram-2026-03-23-165355.svg",
-    "6 мушкетёров/misc/attachments/mermaid-diagram-2026-03-23-165419.png",
-    "6 мушкетёров/Башуров/ИДЗ ФНП.pdf"
+    "6 мушкетёров/misc/attachments/mermaid-diagram-2026-03-23-165355.svg"
   ]
 }
