@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rolay/123/first note.md",
+                "file": "main150911/первая заметочка.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "first note"
+              "title": "первая заметочка"
             }
           }
         ]
@@ -186,7 +186,12 @@
   },
   "active": "584662cea85970f0",
   "lastOpenFiles": [
+    "main150911/attachments/Pasted image 20260410034820.png",
+    "main150911/attachments/image.png",
+    "main150911/первая заметочка.md",
+    "main150911/attachments",
     "Физика (Гора)/Лабы/№10.md",
+    "main150911",
     "Rolay/123/first note.md",
     "Rolay/123",
     "Rolay",
@@ -220,17 +225,12 @@
     "Rolay/roomtest3/test folder/img for test.png",
     "English/08.04.md",
     "Rolay/roomtest3/Untitled.md",
-    "Rolay/roomtest3/note2.md",
     "Rolay/roomtest3/test folder",
     "Rolay/roomtest3",
     "English/attachments/image-3.png",
     "English/attachments/image-2.png",
     "English/attachments/image-1.png",
-    "Марвин/к экзу.md",
-    "6 мушкетёров/Физика/Лекции/attachments.zip",
     "6 мушкетёров/Физика/Лекции/attachments/Pasted image 20260403085625.png",
-    "6 мушкетёров/Физика/Лекции/attachments/Pasted image 20260403084615.png",
-    "English/attachments/image.png",
-    "English/attachments"
+    "6 мушкетёров/Физика/Лекции/attachments/Pasted image 20260403084615.png"
   ]
 }
