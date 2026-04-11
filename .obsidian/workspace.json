@@ -11,14 +11,10 @@
             "id": "584662cea85970f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 мушкетёров/АГиТДУ/Практики/03.04.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03.04"
+              "title": "New tab"
             }
           }
         ]
@@ -184,16 +180,18 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "584662cea85970f0",
+  "active": "f6a8e8f5af53bf7f",
   "lastOpenFiles": [
+    "main150911/image.png",
     "main150911/note123.md",
+    "main150911",
+    "6 мушкетёров/АГиТДУ/Практики/03.04.md",
     "123/first note.md",
     "123",
     "main150911/первая заметочка/первая заметочка.md",
     "main150911/первая заметочка/image.png",
     "main150911/первая заметочка/image-1.png",
     "main150911/первая заметочка",
-    "main150911",
     "6 мушкетёров/АГиТДУ/Лекции/10.04.md",
     "Физика (Гора)/Лекции/13.02/13.02.md",
     "6 мушкетёров/АГиТДУ/Лекции/03.04.md",
@@ -225,9 +223,7 @@
     "123/attachments",
     "Rolay/roomtest3/Drawing 2026-04-09 18.01.40.excalidraw.md",
     "roomtest3/Untitled.md",
-    "roomtest3/test folder/img for test.png",
     "roomtest3/note2.md",
-    "roomtest3/note.md",
     "roomtest3/test folder",
     "roomtest3",
     "Rolay/roomtest3/test folder"
