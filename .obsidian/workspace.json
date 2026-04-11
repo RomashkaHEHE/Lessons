@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 мушкетёров/АГиТДУ/Лекции/10.04.md",
+                "file": "main150911/первая заметочка/первая заметочка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.04"
+              "title": "первая заметочка"
             }
           }
         ]
@@ -186,13 +186,15 @@
   },
   "active": "584662cea85970f0",
   "lastOpenFiles": [
-    "Физика (Гора)/Лекции/13.02/13.02.md",
-    "6 мушкетёров/АГиТДУ/Лекции/10.04.md",
-    "6 мушкетёров/АГиТДУ/Лекции/03.04.md",
-    "main150911/первая заметочка/первая заметочка.md",
     "main150911/первая заметочка/image.png",
-    "main150911/первая заметочка/фыв.md",
+    "main150911/первая заметочка/первая заметочка.md",
+    "main150911/первая заметочка/image-1.png",
     "main150911/первая заметочка",
+    "main150911",
+    "6 мушкетёров/АГиТДУ/Лекции/10.04.md",
+    "Физика (Гора)/Лекции/13.02/13.02.md",
+    "6 мушкетёров/АГиТДУ/Лекции/03.04.md",
+    "main150911/первая заметочка/фыв.md",
     "main150911/attachments/image.png",
     "main150911/attachments",
     "main150911/attachments/Pasted image 20260410035030.png",
@@ -200,7 +202,6 @@
     "main150911/attachments/image-1.png",
     "main150911/attachments/Pasted image 20260410034820.png",
     "Физика (Гора)/Лабы/№10.md",
-    "main150911",
     "Rolay/123/first note.md",
     "Rolay/123",
     "Rolay",
@@ -229,8 +230,6 @@
     "roomtest3/test folder",
     "roomtest3",
     "Rolay/roomtest3/note.md",
-    "Rolay/roomtest3/test folder/img for test.png",
-    "English/08.04.md",
     "Rolay/roomtest3/test folder"
   ]
 }
