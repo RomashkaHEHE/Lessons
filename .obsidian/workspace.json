@@ -11,12 +11,14 @@
             "id": "584662cea85970f0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "main150911/Pasted image 20260411154015.png"
+                "file": "main150911/note321.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260411154015"
+              "icon": "lucide-file",
+              "title": "note321"
             }
           }
         ]
@@ -184,9 +186,9 @@
   },
   "active": "584662cea85970f0",
   "lastOpenFiles": [
-    "main150911/note321.md",
-    "main150911/Pasted image 20260411154015.png",
     "main150911/note123.md",
+    "main150911/Pasted image 20260411154015.png",
+    "main150911/note321.md",
     "main150911/image.png",
     "main150911/image-1.png",
     "main150911",
