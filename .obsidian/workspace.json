@@ -11,14 +11,12 @@
             "id": "584662cea85970f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "main150911/showcase.md",
-                "mode": "source",
-                "source": false
+                "file": "main150911/Pasted image 20260411154015.png"
               },
-              "icon": "lucide-file",
-              "title": "showcase"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260411154015"
             }
           }
         ]
@@ -184,7 +182,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "584662cea85970f0",
+  "active": "f6a8e8f5af53bf7f",
   "lastOpenFiles": [
     "main150911/attachments/Pasted image 20260413220346.png",
     "main150911/Pasted image 20260411154015.png",
