@@ -11,12 +11,14 @@
             "id": "584662cea85970f0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "main150911/Pasted image 20260411154015.png"
+                "file": "Проектный практикум/Параметры сервера.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260411154015"
+              "icon": "lucide-file",
+              "title": "Параметры сервера"
             }
           }
         ]
@@ -182,11 +184,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f6a8e8f5af53bf7f",
+  "active": "584662cea85970f0",
   "lastOpenFiles": [
+    "main150911/showcase.md",
     "main150911/attachments/Pasted image 20260413220346.png",
     "main150911/Pasted image 20260411154015.png",
-    "main150911/showcase.md",
     "main150911/attachments/Pasted image 20260413220052.png",
     "main150911/attachments",
     "main150911/note321.md",
@@ -210,7 +212,6 @@
     "6 мушкетёров/АГиТДУ/Лекции/03.04.md",
     "main150911/первая заметочка/фыв.md",
     "main150911/attachments/image.png",
-    "main150911/attachments/Pasted image 20260410035030.png",
     "Физика (Гора)/Лабы/№10.md",
     "Rolay/123/first note.md",
     "Rolay/123",
