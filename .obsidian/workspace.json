@@ -35,8 +35,7 @@
               "title": "МОРИ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "99050ef8d1dcc299",
+  "active": "3c60f05670c28b6a",
   "lastOpenFiles": [
-    "main150911/Физика/lab 28.md",
     "Физика (Гора)/Лабы/МОРИ.md",
+    "main150911/Физика/lab 28.md",
     "main150911/Физика/28 labaaa.md",
     "main150911/Misc/Untitled.md",
     "main150911/Misc/test.md",
