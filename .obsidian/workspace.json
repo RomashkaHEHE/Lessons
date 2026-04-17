@@ -184,47 +184,9 @@
       "system3-relay:Relay": false
     }
   },
-  "floating": {
-    "id": "fc30abad7ab2946f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "afca9feea5f42fbf",
-        "type": "window",
-        "children": [
-          {
-            "id": "49181b696d29379b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41b8a79e4d89f1b8",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://screen.garden/",
-                    "title": "Collaboration in Obsidian and on the web | screen.garden",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Collaboration in Obsidian and on the web | screen.garden"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "3c60f05670c28b6a",
   "lastOpenFiles": [
+    "main150911/АГиТДУ/Лекция/Лекция 17.04.md",
     "main150911/Misc/test.md",
     "main150911/Misc/Плагины к установке.md",
     "main150911/Misc/attachments/IMG_6791.jpg",
